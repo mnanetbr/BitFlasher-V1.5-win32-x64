@@ -11,9 +11,8 @@ Tellegram https://t.me/terryhacker911
 
 Version 2.5 Now Out check it out here
 
-https://github.com/jimmygreyhat/BitFlasher-V1.5-win32-x64/releases/tag/BitFlasher-V2.0-win32-x64
 
-
+https://github.com/jimmygreyhat/BitFlasher-V1.5-win32-x64/releases/tag/BitFlasher-V2.5-win32-x64
 
 
 
