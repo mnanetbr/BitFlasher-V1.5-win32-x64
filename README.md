@@ -1,3 +1,5 @@
+BEWARE, ANOTHER SCAMMER!
+
 
 With the use of software called Flash Bitcoin Transaction (Core Network), you can send fictitious Bitcoin for free from one wallet address to another on the blockchain network (Coinbase, Binance, Blockchain, etc.).
 
